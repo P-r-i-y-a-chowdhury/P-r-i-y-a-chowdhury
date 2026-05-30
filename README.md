@@ -1,6 +1,9 @@
 # 💫 About Me:
-## About Me<br><br>🎓 BCA Student<br><br>💻 Passionate about programming and web development.<br>🛠️ 🚀 Currently improving my development skills through projects and continuous learning.<br><br>📚 Interested in software development, databases, and modern web technologies.
+## About Me<br><br>🎓 Hi !! I am Priya || BCA Student<br><br>
 
+
+ 🚀 Currently improving my development skills through projects and continuous learning.<br>
+💻 I’m also learning and building mini projects using C#(.NET -Desktop Applications) and Web applications(frontend)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyachowdhury4963) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyachowdhury528@gmail.com) 
