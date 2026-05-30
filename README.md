@@ -1,5 +1,5 @@
 # 💫 About Me:
-## About Me<br><br>🎓 BCA Student<br><br>💻 Passionate about programming and web development.<br><br>🛠️ Skills:<br>- C#<br>- HTML<br>- CSS<br>- JavaScript<br>- Python<br><br>🚀 Currently improving my development skills through projects and continuous learning.<br><br>📚 Interested in software development, databases, and modern web technologies.
+## About Me<br><br>🎓 BCA Student<br><br>💻 Passionate about programming and web development.<br>🛠️ 🚀 Currently improving my development skills through projects and continuous learning.<br><br>📚 Interested in software development, databases, and modern web technologies.
 
 
 ## 🌐 Socials:
